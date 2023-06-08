@@ -1,0 +1,714 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D810C07D-0419-4BB6-AB21-193278B72AA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Tugas_2_PAB</RootNamespace>
+    <AssemblyName>Tugas_2_PAB</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>67C35AE504C2664692827280B49552925E1BB449</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Tugas_2_PAB_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmBrowseUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrowseUsers.Designer.cs">
+      <DependentUpon>frmBrowseUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsers.Designer.cs">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmApplication.Designer.cs">
+      <DependentUpon>frmApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeveloper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeveloper.Designer.cs">
+      <DependentUpon>frmDeveloper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelp.Designer.cs">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplashScreen.Designer.cs">
+      <DependentUpon>frmSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmBranch.Designer.cs">
+      <DependentUpon>frmBranch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmBrowseBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmBrowseBranch.Designer.cs">
+      <DependentUpon>frmBrowseBranch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmBrowseCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmBrowseCategory.Designer.cs">
+      <DependentUpon>frmBrowseCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmBrowseCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmBrowseCustomer.Designer.cs">
+      <DependentUpon>frmBrowseCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmBrowseEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmBrowseEmployee.Designer.cs">
+      <DependentUpon>frmBrowseEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmBrowseMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmBrowseMaterial.Designer.cs">
+      <DependentUpon>frmBrowseMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmBrowseProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmBrowseProduct.Designer.cs">
+      <DependentUpon>frmBrowseProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmCategory.Designer.cs">
+      <DependentUpon>frmCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmCustomer.Designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmEmployee.Designer.cs">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmMaterial.Designer.cs">
+      <DependentUpon>frmMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmProduct.Designer.cs">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Report\crCabang.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crCabang.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crFakturPenjualan.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crFakturPenjualan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crKaryawan.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crKaryawan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crKategori.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crKategori.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crLaporanPenjualan.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crLaporanPenjualan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crMaterial.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crMaterial.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crPelanggan.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crPelanggan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crProduk.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crProduk.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\dsArtemis.cs">
+      <DependentUpon>dsArtemis.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\dsArtemis.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsArtemis.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmViewer.Designer.cs">
+      <DependentUpon>frmViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\frmBrowseSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\frmBrowseSale.Designer.cs">
+      <DependentUpon>frmBrowseSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\frmSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\frmSale.Designer.cs">
+      <DependentUpon>frmSale.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmBrowseUsers.resx">
+      <DependentUpon>frmBrowseUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsers.resx">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmApplication.resx">
+      <DependentUpon>frmApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeveloper.resx">
+      <DependentUpon>frmDeveloper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelp.resx">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplashScreen.resx">
+      <DependentUpon>frmSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmBranch.resx">
+      <DependentUpon>frmBranch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmBrowseBranch.resx">
+      <DependentUpon>frmBrowseBranch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmBrowseCategory.resx">
+      <DependentUpon>frmBrowseCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmBrowseCustomer.resx">
+      <DependentUpon>frmBrowseCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmBrowseEmployee.resx">
+      <DependentUpon>frmBrowseEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmBrowseMaterial.resx">
+      <DependentUpon>frmBrowseMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmBrowseProduct.resx">
+      <DependentUpon>frmBrowseProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmCategory.resx">
+      <DependentUpon>frmCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmMaterial.resx">
+      <DependentUpon>frmMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmProduct.resx">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crCabang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crCabang.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crFakturPenjualan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crFakturPenjualan.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crKaryawan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crKaryawan.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crKategori.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crKategori.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crLaporanPenjualan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crLaporanPenjualan.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crMaterial.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crMaterial.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crPelanggan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crPelanggan.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crProduk.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crProduk.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmViewer.resx">
+      <DependentUpon>frmViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\frmBrowseSale.resx">
+      <DependentUpon>frmBrowseSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\frmSale.resx">
+      <DependentUpon>frmSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Tugas_2_PAB_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Artemis3 white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Report\dsArtemis.xsc">
+      <DependentUpon>dsArtemis.xsd</DependentUpon>
+    </None>
+    <None Include="Report\dsArtemis.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsArtemis.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\dsArtemis.xss">
+      <DependentUpon>dsArtemis.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\about_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark mode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\developer_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\developer_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light mode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\developer_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_black1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sidebar_menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Artemis3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Artemis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Artemis2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\display_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\display_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\display_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Artemis2 white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diskette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-question-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-setting-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-power-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-logout-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-browse-page-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-edit-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-save-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-refresh-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sort_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sort_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\website.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

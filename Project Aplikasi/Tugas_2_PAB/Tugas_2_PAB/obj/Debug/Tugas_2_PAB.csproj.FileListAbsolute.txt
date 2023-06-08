@@ -1,0 +1,509 @@
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.AssemblyReference.cache
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.AssemblyReference.cache
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.AssemblyReference.cache
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.AssemblyReference.cache
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+D:\Kuliah\PAB\Tugas2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+D:\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.AssemblyReference.cache
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+D:\Kuliah\PAB\Tugas2\Revisi2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csprojAssemblyReference.cache
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+D:\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csprojAssemblyReference.cache
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+E:\Semester 3\PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.AssemblyReference.cache
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+G:\My Drive\Tugas PAB\Tugas 2 PAB\PROGRES 5\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmBrowseSale.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Shared.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\ShockwaveFlashObjects.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\stdole.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.AssemblyReference.cache
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Report.frmViewer.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmBrowseSale.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+D:\Kuliah\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+D:\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.AssemblyReference.cache
+D:\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+D:\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\stdole.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.AssemblyReference.cache
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Report.frmViewer.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmBrowseSale.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+C:\Users\Republic Of Gamers\Downloads\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Shared.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\ShockwaveFlashObjects.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\stdole.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csprojAssemblyReference.cache
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Report.frmViewer.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmBrowseSale.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CopyComplete
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+E:\Semester 3\PAB\Revisi Tugas 2\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Shared.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\ShockwaveFlashObjects.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\stdole.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Report.frmViewer.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmBrowseSale.resources
+D:\PERKULIAHAN\SEM III\PENGEMBANGAN APLIKASI BISNIS\TUGAS KELOMPOK\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CopyComplete
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\AxShockwaveFlashObjects.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Shared.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\ShockwaveFlashObjects.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\stdole.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Report.frmViewer.resources
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CopyComplete
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.config
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.pdb
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Shared.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\ShockwaveFlashObjects.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\stdole.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csprojAssemblyReference.cache
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmBrowseUsers.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmUsers.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmApplication.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmChangePassword.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmDeveloper.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmHelp.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmLogin.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmMain.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.frmSplashScreen.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBranch.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseBranch.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCategory.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseCustomer.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseEmployee.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseMaterial.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmBrowseProduct.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCategory.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmCustomer.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmEmployee.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmMaterial.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Master.frmProduct.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Properties.Resources.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Report.frmViewer.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmBrowseSale.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.Transaction.frmSale.resources
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.GenerateResource.cache
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CoreCompileInputs.cache
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.csproj.CopyComplete
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe
+E:\Semester 3\PAB\Design\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.pdb
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.exe.manifest
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\bin\Debug\Tugas_2_PAB.application
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.exe.manifest
+G:\My Drive\Tugas PAB\Tugas 2 PAB\Project Aplikasi\Tugas_2_PAB\Tugas_2_PAB\obj\Debug\Tugas_2_PAB.application
