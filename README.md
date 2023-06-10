@@ -1,4 +1,4 @@
-PENJELASAN SINGKAT
+Artemis Furniture is a Windows-based business application for the needs of business activities in the furniture sector. Artemis Furniture allows users to monitor all business activities such as purchases, sales, and stock management.
 
 - Input master data yang meliputi data karyawan, data pelanggan, data barang, data material (opsional), data kategori, dan data cabang. 
 - Sistem yang dikembangkan meliputi proses pencatatan data karyawan, pencatatan data pelanggan, proses pencatatan data barang, proses pencatatan data material (opsional), proses pencatatan kategori, proses pencatatan data cabang, serta proses pencatatan data penjualan dan pembayaran barang.
